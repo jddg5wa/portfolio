@@ -1,0 +1,15 @@
+.page-selector {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 25px;
+  cursor: pointer;
+}
+
+.page-selector > * {
+  padding: 5px;
+}
+
+.page-numbers {
+  cursor: pointer;
+}
